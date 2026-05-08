@@ -43,7 +43,7 @@ I build intelligent systems — agentic AI pipelines, RAG applications, and fine
 
 ## 🌐 Portfolio & Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--apgj.onrender.com-6366f1?style=for-the-badge)](https://portfolio-apgj.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--apgj.onrender.com-6366f1?style=for-the-badge)](https://manarattar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manar--attar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manar-attar)
 [![Email](https://img.shields.io/badge/Email-manarattar77@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:manarattar77@gmail.com)
 
