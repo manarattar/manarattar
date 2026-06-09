@@ -13,6 +13,7 @@ I build intelligent systems — agentic AI pipelines, RAG applications, and fine
 | [AI Contract Risk Analyzer](https://github.com/manarattar/contract-risk-analyzer) | FastAPI · ChromaDB · OpenAI · React | [Live](https://contracts.manarattar.com) |
 | [Multi-Agent Research Assistant](https://github.com/manarattar/multi-agent-researcher) | Agentic AI · Groq · Tavily · SSE · React | [Live](https://researcher.manarattar.com) |
 | [Dual-Perspective Debate Engine](https://github.com/manarattar/debate-engine) | RAG · Cerebras · ChromaDB · FastAPI | [Live](https://debate.manarattar.com) |
+| [Telecom Voice Assistant](https://github.com/manarattar/telecom-voice-assistant) | FastAPI · Whisper · GPT-4o · ElevenLabs · Web Audio | [Live](https://voice.manarattar.com) |
 
 ---
 
