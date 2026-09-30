@@ -1,8 +1,8 @@
 # Hi, I'm Manar Attar 👋
 
-**AI Researcher & Developer** · Master's in Language & AI · VU Amsterdam
+**AI Researcher & Developer** · MA Language & AI, VU Amsterdam (thesis passed, degree conferred Dec 2026)
 
-I build intelligent systems — agentic AI pipelines, RAG applications, and fine-tuned NLP models. Currently researching author profiling on hate speech data using LLMs and BERT for my thesis.
+I build agentic AI systems end-to-end — from prototype to deployed product. My focus is on making LLM outputs trustworthy: grounding claims in source evidence, routing judgment calls to purpose-built decision models instead of just asking an LLM, and keeping a human in the loop wherever a decision actually matters.
 
 ---
 
@@ -10,16 +10,20 @@ I build intelligent systems — agentic AI pipelines, RAG applications, and fine
 
 | Project | Stack | Demo |
 |---|---|---|
-| [AI Contract Risk Analyzer](https://github.com/manarattar/contract-risk-analyzer) | FastAPI · ChromaDB · OpenAI · React | [Live](https://contracts.manarattar.com) |
+| [Routing Slip](https://github.com/manarattar/workflow-studio) — describe a process in plain words, run it on a real inbox | Agentic AI · Jev (TypeSafe) · FastAPI · React Flow · SSE | [Live](https://studio.manarattar.com) |
+| [ARGUS-Lite](https://github.com/manarattar/argus-lite) — agentic risk assessment, explained step by step | Agentic AI · Jev (TypeSafe) · FastAPI · React · SSE | [Live](https://argusv1.manarattar.com) |
+| [AI Contract Risk Analyzer](https://github.com/manarattar/contract-risk-analyzer) | FastAPI · Jev (TypeSafe) · ChromaDB · OpenAI · React | [Live](https://contracts.manarattar.com) |
 | [Multi-Agent Research Assistant](https://github.com/manarattar/multi-agent-researcher) | Agentic AI · Groq · Tavily · SSE · React | [Live](https://researcher.manarattar.com) |
-| [Dual-Perspective Debate Engine](https://github.com/manarattar/debate-engine) | RAG · OpenAI · ChromaDB · FastAPI | [Live](https://debate.manarattar.com) |
-| [Telecom Voice Assistant](https://github.com/manarattar/telecom-voice-assistant) | FastAPI · Whisper · GPT-4o · ElevenLabs · Web Audio | [Live](https://voice.manarattar.com) |
+| [Munazara — AI Debate Engine](https://github.com/manarattar/debate-engine) | RAG · OpenAI · ChromaDB · FastAPI | [Live](https://munazara.manarattar.com) |
+| [TelecomNL Voice Assistant](https://github.com/manarattar/telecom-voice-assistant) | FastAPI · Whisper · GPT-4o · ElevenLabs · Web Audio | [Live](https://voice.manarattar.com) |
+
+See the full portfolio at [manarattar.com](https://manarattar.com) for all 8 projects, including RivalScan and SwipeEat.
 
 ---
 
 ## 🧠 What I Work With
 
-**AI & ML** — Python · PyTorch · HuggingFace · BERT · LLaMA · Agentic AI · RAG · ChromaDB · Prompt Engineering
+**AI & ML** — Python · PyTorch · HuggingFace · BERT · LLaMA · Agentic AI · Jev (TypeSafe decision models) · RAG · ChromaDB · Prompt Engineering
 
 **Backend** — FastAPI · Flask · SQLAlchemy · SSE Streaming · Docker · PostgreSQL
 
@@ -27,11 +31,13 @@ I build intelligent systems — agentic AI pipelines, RAG applications, and fine
 
 ---
 
-## 📚 Current Research
+## 📚 Master's Thesis — Passed
 
-> *"Can zero-shot LLMs match or surpass fine-tuned BERT models in predicting the gender and age group of hate speech authors?"*
+**Author Profiling on Hate Speech Data** — benchmarked zero-shot LLMs (LLaMA, Qwen) against fine-tuned encoders (BERT, RoBERTa, HateBERT) on the multilingual LiLaH-HAG dataset, testing whether either approach reliably predicts the age and gender of hate speech authors.
 
-**Author Profiling on Hate Speech Data** — comparing zero-shot LLaMA & Qwen against fine-tuned BERT/DistilBERT on the multilingual LiLaH dataset (9,600+ records, 4 languages). Master's thesis · VU Amsterdam · Due June 2026.
+> Neither approach was good enough to recommend for deployment — and both models shared a striking blind spot: the 66+ age group, underrepresented in training data, was essentially invisible to every model tested.
+
+MA Language & AI · VU Amsterdam · 2026
 
 ---
 
@@ -44,8 +50,8 @@ I build intelligent systems — agentic AI pipelines, RAG applications, and fine
 
 ## 🌐 Portfolio & Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--apgj.onrender.com-6366f1?style=for-the-badge)](https://manarattar.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manarattar.com-6366f1?style=for-the-badge)](https://manarattar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manar--attar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manar-attar)
 [![Email](https://img.shields.io/badge/Email-manarattar77@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:manarattar77@gmail.com)
 
-**Open to AI/ML roles from mid-2026.**
+**Actively looking for AI/ML engineering roles.**
